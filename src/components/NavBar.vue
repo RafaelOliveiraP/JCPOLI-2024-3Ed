@@ -60,6 +60,7 @@
         <router-link to="/" tag="li">Home</router-link>
         <router-link to="/escola" tag="li">Escola</router-link>
         <router-link to="/palestras" tag="li">Palestras</router-link>
+        <router-link to="/ciencia_em_casa" tag="li">Ciencia em Casa</router-link>
         <router-link to="/minicursos" tag="li">Minicursos</router-link>
         <!-- <router-link to="/egressos" tag="li">Egressos</router-link> -->
         <router-link to="/competicoes" tag="li">Competições</router-link>
@@ -163,7 +164,7 @@ export default class NavBar extends Vue {
 }
 .navbar-h .nav-container > ul li {
   position: relative;
-  padding: 15px 45px;
+  padding: 15px 10px;
   font-family: 'Montserrat', sans-serif;
   color: #576574;
   transition: all 50ms ease;
