@@ -20,10 +20,6 @@
       -->
       <div class="button-container">
         <button class="button" v-on:click="clearFilter">Todas as datas</button>
-        <button class="button" v-on:click="filterPalestras">11/04</button>
-        <button class="button" v-on:click="filterPalestras">12/04</button>
-        <button class="button" v-on:click="filterPalestras">15/04</button>
-        <button class="button" v-on:click="filterPalestras">16/04</button>
         <button class="button" v-on:click="filterPalestras">17/04</button>
         <button class="button" v-on:click="filterPalestras">18/04</button>
         <button class="button" v-on:click="filterPalestras">19/04</button>
