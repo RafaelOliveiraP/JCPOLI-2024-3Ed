@@ -72,7 +72,13 @@ const router = new Router({
       component: () =>
         import(/* webpackChunkName: "minicurso" */ "./views/Palestras.vue")
     },
-
+    
+    {
+      path: "/ciencia_em_casa",
+      name: "ciencia_em_casa",
+      component: () =>
+        import(/* webpackChunkName: "minicurso" */ "./views/CienciaEmCasa.vue")
+    },
 
     {
       path: "/programacao",
