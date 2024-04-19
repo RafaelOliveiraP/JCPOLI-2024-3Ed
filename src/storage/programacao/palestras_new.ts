@@ -285,7 +285,7 @@ let Palestras = [
     institution: "PUC Goiás",
     desc: `Palestra ministrada pelo Prof. Dr. Benjamim Jorge discutindo questões fundamentais de mobilidade urbana.`,
     date: "19/04",
-    time: "09:00-10:30",
+    time: "09:30-11:00",
     place: "Auditório 2, área II",
   },
   
