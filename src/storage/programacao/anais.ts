@@ -95,3 +95,26 @@ export const livros = [
     
 ]
 
+//Dps que houver as publicações da "APRESENTAÇÃO DOS ARTIGOS APROVADOS PARA A III JCPOLI", subistituir o file no path
+export const AnaisJCPOLI3 = [
+  {
+    title: 'Os biocombustíveis e a inovação de ruptura na aviação civil',
+    autor: 'Nathan Santana do Couto Souza',
+    path: '' 
+  },
+  {
+    title: 'Protegendo saúde digital: ajustando IOT à LGPD para privacidade',
+    autor: 'Matheus Rodrigues Tenaglia',
+    path: ''
+  },
+  {
+    title: 'Monitoramento de redes de computadores utilizando grafana',
+    autor: 'Gabriel Castro Gonçalves',
+    path: ''
+  },
+  {
+    title: 'Indústrira 4.0: digitalização de fábricas, sistemas de monitoramento, coleta de dados e automação',
+    autor: 'Gabriel Sales Mendes da Silva',
+    path: ''
+  },
+]
