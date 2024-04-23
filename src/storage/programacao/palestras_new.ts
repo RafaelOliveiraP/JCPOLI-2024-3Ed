@@ -379,14 +379,15 @@ let Palestras = [
    },
 
    {
-    title: "Seleção e recrutamento de aeronáutas na Azul Linhas Aéreas",
+    title: "",
     instructor: "Heitor Giuliano Matioli Candido",
     institution: "Azul Linhas Aéreas",
     desc: `Seleção e recrutamento de aeronáutas na Azul Linhas Aéreas`,
     date: "17/04",
     time: '20:00',
     place: 'Online: Teams',
-    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1713177106593?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1713177106593?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d",
+    warning: "Seleção e recrutamento de aeronáutas na Azul Linhas Aéreas - CANCELADA",
    },
 
 
