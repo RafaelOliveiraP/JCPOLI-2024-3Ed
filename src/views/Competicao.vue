@@ -183,7 +183,7 @@ svg {
 }
 .competicoes .info-h > div:first-child h5,
 .competicoes .info-h > div:first-child h6 {
-  white-space: nowrap;
+  /*white-space: nowrap;*/
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -215,7 +215,7 @@ svg {
   font-size: 1.2rem;
   text-align: right;
   text-transform: capitalize;
-  white-space: nowrap;
+  /*white-space: nowrap;*/
 }
 
 .competicoes {

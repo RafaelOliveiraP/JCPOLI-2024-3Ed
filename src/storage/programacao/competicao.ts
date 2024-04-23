@@ -1,4 +1,30 @@
 const Competicao = [
+
+  {
+    title: "I DESAFIO EM OTIMIZAÇÃO COM METAHEURÍSTICA",
+  instructor: "Maria Jose Pereira Dantas, Alexandre Ribeiro e Lucas Gabriel Godoi Arriel",
+  institution: "PUC Goiás",
+  desc: `
+  <br>Este edital propõe um desafio que envolve a resolução do Problema do Caixeiro Viajante (PCV) utilizando técnicas de otimização com metaheurísticas (MH). É particularmente benéfico para os estudantes nos primeiros estágios de seus cursos universitários engajarem-se neste desafio, pois oferece uma oportunidade significativa para explorar áreas de otimização e metaheurísticas, ampliando seus conhecimentos e contribuindo com novas ideias e perspectivas inovadoras. A participação neste desafio serve como um primeiro passo inspirador na jornada científica de um estudante, proporcionando uma chance única de adquirir experiência prática, interagir com colegas mais experientes e especialistas na área, e desenvolver competências valiosas para toda a carreira acadêmica e profissional.
+  <br>
+  <br><b>Cronograma</b>
+  <br>Lançamento do Edital: 20/04/2024
+  <br>Inscrições: 20 a 23/04
+  <br>Entrega dos relatórios e código-fonte: 03/05
+  <br>Apresentações: 12/05/2024, até 23:59 (link será disponibilizada na sala)
+  <br>Anúncio dos Resultados: Publicação na sala do I Desafio até 17/05, 23:59. Na sala do I desafio
+  <br>Entrega da Premiação: 19/05/2024, 9h, auditório a ser definido na área 2
+  <br>
+  <br><a href="https://teams.microsoft.com/l/team/19%3AJ68wGPL0m1e4eqLfKVcYlVAfer1pZA37KR9_tNHC6oA1%40thread.tacv2/conversations?groupId=a772127e-a579-459a-8848-08e216113da1&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Sala Teams do desafio</a>
+  <br><a href="https://chat.whatsapp.com/DtOSY0uaQAZ06tCVTGXCmZ">Grupo WhatsApp do desafio</a>
+  `,
+  editais:"/assets/edital_Idesafio_Otimização.pdf",
+  date: "20/04 a 19/05",
+  place: "Teams",
+  image: "assets/img/slider/logo-maratona.jpeg"
+  },
+
+
   {
     title: "VI DESAFIO EM CIÊNCIA DE DADOS",
   instructor: "Maria José Pereira Dantas, José Elmo de Menezes.",
