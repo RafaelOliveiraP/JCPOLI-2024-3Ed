@@ -25,6 +25,7 @@
         <router-link to="/cadastro" tag="li">Inscrição</router-link>
         -->
         <router-link to="/orientacoes" tag="li">Orientações</router-link>
+        <router-link to="/fotosJCPOLI3" tag="li">Fotos</router-link>
       </ul>
     </div>
 
@@ -73,6 +74,7 @@
         <router-link to="/cadastro" tag="li">Inscrição</router-link>
         -->
         <router-link to="/orientacoes" tag="li">Orientações</router-link>
+        <router-link to="/fotosJCPOLI3" tag="li">Fotos</router-link>
       </ul>
     </div>
   </div>
@@ -113,7 +115,7 @@ export default class NavBar extends Vue {
   position: relative;
   padding: 20px 0;
   background-color: white;
-  max-width: 1000px;
+  max-width: 2000px;
 }
 
 .navbar-h .nav-info {
@@ -165,7 +167,7 @@ export default class NavBar extends Vue {
 }
 .navbar-h .nav-container > ul li {
   position: relative;
-  padding: 15px 15px;
+  padding: 15px 17px;
   font-family: 'Montserrat', sans-serif;
   color: #576574;
   transition: all 50ms ease;
