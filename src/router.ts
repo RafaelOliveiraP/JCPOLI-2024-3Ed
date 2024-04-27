@@ -95,6 +95,11 @@ const router = new Router({
         import(/* webpackChunkName: "egressos" */ "./views/Egressos.vue")
     },
     {
+      path: "/fotosJCPOLI3",
+      component: () =>
+        import(/* webpackChunkName: "egressos" */ "./views/FotosJCPOLI3.vue")
+    },
+    {
       path: "/anais",
       component: () =>
         import(/* webpackChunkName: "egressos" */ "./views/Anais.vue")
