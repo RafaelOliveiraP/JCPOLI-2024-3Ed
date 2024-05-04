@@ -113,14 +113,17 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
     grid-gap: 2rem;
-    margin: 5rem auto;
+    margin: 4rem auto;
+    padding-left: 5rem; /* Para deixar o grid de iamgens mais centralizado*/
   }
   
   .gallery-panel img {
     height: 15rem;
     width: 25rem;
   
-    object-fit: cover;
+    /* object-fit: cover; */
+    object-fit: contain; /* Alterado de 'cover' para 'contain' */
+    transform: scale(1.1);
     border-radius: 0.75rem;
   }
   
@@ -133,14 +136,15 @@
       height: 25rem;
       width: 22rem;
   
-      object-fit: cover;
+      /* object-fit: cover; */
+      object-fit: contain; /* Alterado de 'cover' para 'contain' */
       border-radius: 0.75rem;
   
       transition: transform 0.5s;
     }
   
     .gallery-panel img:hover {
-      object-fit: contain;
+      /* object-fit: contain; */
   
       transform: scale(1.5);
   
