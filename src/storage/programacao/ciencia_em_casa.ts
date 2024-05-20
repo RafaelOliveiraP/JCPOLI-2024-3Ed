@@ -14,6 +14,7 @@ let CienciaEmCasa = [
     /*institution: "xx",
     desc: `xx`,*/
     desc: `Trajetória de egresso da PUC do curso de Engenharia de Controle e Automação até mudança e trabalho na Ubisoft do Canadá.	`,
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2925",
     date: "10/04",
     time: '21:00',
     place: 'Online',
@@ -25,6 +26,7 @@ let CienciaEmCasa = [
     instructor: "Ricardo Queiroz",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2905",
     date: "18/04",
     time: '10:30',
     place: 'Online',
@@ -37,6 +39,7 @@ let CienciaEmCasa = [
     instructor: "Everaldo Lopes dos Santos",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2870",
     date: "16/04",
     time: '19:00',
     place: 'Online',
@@ -49,6 +52,7 @@ let CienciaEmCasa = [
     instructor: "Lucas de Suza Rodrigues",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2810",
     date: "11/04",
     time: '08:30',
     place: 'Online',
@@ -61,6 +65,7 @@ let CienciaEmCasa = [
     instructor: "Fernando Felipe",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2902",
     date: "17/04",
     time: '19:30',
     place: 'Online',
@@ -84,6 +89,7 @@ let CienciaEmCasa = [
     instructor: "Juliana Moreira Barbosa",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2865",
     date: "16/04",
     time: '20:30',
     place: 'Online',
@@ -95,6 +101,7 @@ let CienciaEmCasa = [
     instructor: "Adriane Maia Insuela",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2889",
     date: "18/04",
     time: '19:00',
     place: 'Online',
@@ -106,6 +113,7 @@ let CienciaEmCasa = [
     instructor: "Daiana Ribeiro",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2868",
     date: "17/04",
     time: '10:30',
     place: 'Online',
@@ -118,6 +126,7 @@ let CienciaEmCasa = [
     /*institution: "xx",*/
     desc: `A experiência do cliente, enriquecida por jornadas bem desenhadas, serve como alavanca crucial para negócios ao criar interações personalizadas e memoráveis. Essa abordagem aumenta a satisfação e fidelidade, transformando clientes em defensores da marca, o que impulsiona a recompra e promove indicações, resultando em crescimento sustentável e maior rentabilidade. A IA está revolucionando a compreensão e interação com os dos clientes, tornando-a mais personalizada, eficiente e satisfatória. Entre novas tecnologias e modelos de negócios inovadores, vamos mergulhar
     neste mundo IA e CX.`,
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2891",
     date: "18/04",
     time: '20:30',
     place: 'Online',
@@ -129,6 +138,7 @@ let CienciaEmCasa = [
     instructor: "Wallace Souza Loos",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2851",
     date: "12/04",
     time: '19:00',
     place: 'Online',
@@ -140,6 +150,7 @@ let CienciaEmCasa = [
     instructor: "Anne Louise de Melo Dores",
     /*institution: "xx",*/
     desc: ` Palestrante: Anne Louise de Melo Dores, Palestrante Egressa do Curso de Engenharia Civil, realiza atualmente mestrado na Universidade de Stuttgart, na Alemanha. Irá tratar do tema: Os efeitos dos microplásticos em sedimentos de lagos e rios europeus.`,
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2899",
     date: "18/04",
     time: '09:00',
     place: 'Online',
@@ -151,6 +162,7 @@ let CienciaEmCasa = [
     instructor: "Dr. Iuri Santos",
     /*institution: "xx",*/
     desc: `Palestra: Harvesting rare earth elements and critical minerals from coal derived acid mine drainage.`,
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2914",
     date: "19/04",
     time: '18:45',
     place: 'Online',
@@ -195,6 +207,7 @@ let CienciaEmCasa = [
     instructor: "Thalles Antônio de Urzedo Machado",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2888",
     date: "17/04",
     time: '18:00',
     place: 'Online: Teams',
@@ -218,6 +231,7 @@ let CienciaEmCasa = [
     instructor: "Antônio Marcos Vianna Campos",
     /*institution: "xx",
     desc: `xx`,*/
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2896",
     date: "18/04",
     time: '19:00',
     place: 'Online: Teams',
@@ -229,6 +243,7 @@ let CienciaEmCasa = [
     instructor: "Fernando Rezende da Costa",
     institution: "Irriga Global/Nutrisolo",
     desc: `A irrigação é a tecnologia com maior potencial de contribuir para o aumento da segurança alimentar e ambiental, bem como para a redução da fome e da pobreza, além de gerar grande número de empregos. Ela traz benefícios importantes relacionados à produção de alimentos, à geração de empregos, ao desenvolvimento social e ao meio ambiente. É uma tecnologia fundamental em qualquer planejamento estratégico dos estados e regiões.`,
+    certificado: "https://sites.pucgoias.edu.br/certificados/participantes/2895",
     date: "17/04",
     time: '19:00',
     place: 'Online: Teams',
