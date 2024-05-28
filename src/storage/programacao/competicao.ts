@@ -1,6 +1,62 @@
 const Competicao = [
 
   {
+    title: "II CONCURSO DE FOTOGRAFIA DA ESCOLA POLITÉCNICA E DE ARTES",
+  instructor: "Luciana Casaletti, Frederico André Rabelo e Genilda da Silva Alexandria Sousa.",
+  institution: "PUC Goiás",
+  desc: `II Concurso de Fotografia da Escola Politécnica da Universidade Católica de Goiás (PUC Goiás) tem como objetivo fomentar a produção de imagens relacionadas ao tema Fraternidade e Amizade Social e contribuir para a integração dos cursos ofertados pela Escola, bem como o desenvolvimento da cultura e arte entre a comunidade acadêmica.
+  <br>
+  <br><b>Vencedores:</b>
+  <br>
+  <br>TERCEIRO LUGAR
+  <br>14% dos votos
+  <br>
+  <br>Título: Floresça por onde FLOR  
+  <br>
+  <br>Geovanna de Melo Dias França 
+  <br>
+  <br>Curso: Agronomia 
+  <br>
+  <br><img src="/assets/GEOVANNA.jpeg" style="height: 50rem;">
+  <br>
+  <br>SEGUNDO LUGAR
+  <br>24% dos votos
+  <br>
+  <br>Título: Unidos para Superar Desafios  
+  <br>
+  <br>Moisés Lopes de Matos
+  <br>
+  <br>Curso: Análise e Desenvolvimento de Sistemas 
+  <br>
+  <br><img src="/assets/MOISES_LOPES.jpg" style="height: 40rem;">
+  <br>
+  <br>PRIMEIRO LUGAR
+  <br>27% dos votos
+  <br>
+  <br>Título: Solidariedade 
+  <br>
+  <br>Salmen Chaquip Bukzem
+  <br>
+  <br>Curso: Ciências Aeronáuticas
+  <br>
+  <br><img src="/assets/SALMEN.jpg" style="height: 50rem;">
+  <br>
+  <br>JORNADA DA CIDADANIA - 2024
+  <br>27,3% do votos
+  <br>
+  <br>TÍTULO: Ambientes propícios às amizades sociais 
+  <br>
+  <br>Ary Rodrigues de Bessa
+  <br>
+  <br><img src="/assets/ARY_RODRIGUES.jpeg" style="height: 50rem;">
+  `,
+  editais:"/assets/Edital Fotografia JCPOLI 2024.pdf",
+  date: "18/04",
+  time: "19:00",
+  place: "Auditório 2, área II",
+  },
+
+  {
     title: "I DESAFIO EM OTIMIZAÇÃO COM METAHEURÍSTICA",
   instructor: "Maria Jose Pereira Dantas, Alexandre Ribeiro e Lucas Gabriel Godoi Arriel",
   institution: "PUC Goiás",
@@ -91,21 +147,6 @@ históricas da mulher nestes cenários.
   place: "Teams",
   image: "assets/img/slider/logo-maratona.jpeg"
   },
-
-  {
-    title: "II CONCURSO DE FOTOGRAFIA DA ESCOLA POLITÉCNICA E DE ARTES",
-  instructor: "Luciana Casaletti, Frederico André Rabelo e Genilda da Silva Alexandria Sousa.",
-  institution: "PUC Goiás",
-  desc: `II Concurso de Fotografia da Escola Politécnica da Universidade Católica de Goiás (PUC Goiás) tem como objetivo fomentar a produção de imagens relacionadas ao tema Fraternidade e Amizade Social e contribuir para a integração dos cursos ofertados pela Escola, bem como o desenvolvimento da cultura e arte entre a comunidade acadêmica.`,
-  inscrevase:"https://forms.office.com/r/S9RdTWvSCz",
-  datainscri:"18/04 a 09/05/2024",
-  editais:"/assets/Edital Fotografia JCPOLI 2024.pdf",
-  date: "18/04",
-  time: "19:00",
-  place: "Auditório 2, área II",
-  image: "assets/img/slider/fotografia_2024.jpg"
-  },
-
 
   /*
   {
