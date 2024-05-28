@@ -17,7 +17,7 @@ const Competicao = [
   <br>
   <br>Curso: Agronomia 
   <br>
-  <br><img src="/assets/GEOVANNA.jpeg" style="height: 50rem;">
+  <br><img src="/assets/GEOVANNA.jpeg" style="max-width: 70%; height: auto;">
   <br>
   <br>SEGUNDO LUGAR
   <br>24% dos votos
@@ -28,7 +28,7 @@ const Competicao = [
   <br>
   <br>Curso: Análise e Desenvolvimento de Sistemas 
   <br>
-  <br><img src="/assets/MOISES_LOPES.jpg" style="height: 40rem;">
+  <br><img src="/assets/MOISES_LOPES.jpg" style="max-width: 70%; height: auto;">
   <br>
   <br>PRIMEIRO LUGAR
   <br>27% dos votos
@@ -39,7 +39,7 @@ const Competicao = [
   <br>
   <br>Curso: Ciências Aeronáuticas
   <br>
-  <br><img src="/assets/SALMEN.jpg" style="height: 50rem;">
+  <br><img src="/assets/SALMEN.jpg" style="max-width: 70%; height: auto;">
   <br>
   <br>JORNADA DA CIDADANIA - 2024
   <br>27,3% do votos
@@ -48,12 +48,13 @@ const Competicao = [
   <br>
   <br>Ary Rodrigues de Bessa
   <br>
-  <br><img src="/assets/ARY_RODRIGUES.jpeg" style="height: 50rem;">
+  <br><img src="/assets/ARY_RODRIGUES.jpeg" style="max-width: 70%; height: auto;">
   `,
   editais:"/assets/Edital Fotografia JCPOLI 2024.pdf",
   date: "18/04",
   time: "19:00",
   place: "Auditório 2, área II",
+  /*image: "assets/img/slider/fotografia_2024.jpg",*/
   },
 
   {
