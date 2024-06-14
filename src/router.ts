@@ -43,6 +43,12 @@ const router = new Router({
         import(/* webpackChunkName: "evento2" */ "./views/Escola.vue")
     },
     {
+      path: "/TCC",
+      name: "TCC",
+      component: () =>
+        import(/* webpackChunkName: "account" */ "./views/TCC.vue")
+    },
+    {
       path: "/profile",
       name: "speakerProfile",
       component: () =>
