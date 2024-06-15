@@ -84,6 +84,8 @@
               </div>
             </form>
           </div>
+          <p><strong id="myText" style="color:#FF0000"></strong></p>
+          <br>
           <div class="button-container">
             <button class="button" v-on:click="clearFilter">Todas as datas</button>
             <button class="button" v-on:click="filterPalestras">17/06</button>
@@ -180,11 +182,13 @@ export default class TCC extends Vue {
 
   filtrarTCC1() {
     this.tipo_TCC = 1;
+    document.getElementById("myText").textContent = "As apresentações de TCC I não são públicas. As mesmas ocorrerão na plataforma Microsoft Teams, equipe Mural de Avisos - Escola Politécnica e de Artes, canal Apresentações de TCC I 2024-1";
     this.applyFilters();
   }
 
   filtrarTCC2() {
     this.tipo_TCC = 2;
+    document.getElementById("myText").textContent = "";
     this.applyFilters();
   }
 }
