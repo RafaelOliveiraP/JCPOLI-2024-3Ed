@@ -16,7 +16,7 @@
       <div class="text-center">
         <div class="dropdown-container">
           <label for="semester">
-            <h4>Selecione o semestre: </h4>
+            <h4 class="h4-custom-margin">Selecione o semestre: </h4>
             </label>
           <select id="semester" v-model="selectedSemester" @change="handleChange">
             <option value="2024/1">2024/1</option>
@@ -332,6 +332,9 @@ input[type="radio"] {
 h4 {
   color: black;
   margin-bottom: 3rem;
+}
+.h4-custom-margin {
+  margin-bottom: 0rem;
 }
 
 </style>
