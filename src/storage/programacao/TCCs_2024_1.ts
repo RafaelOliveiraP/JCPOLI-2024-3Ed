@@ -1377,8 +1377,8 @@ let TCCs = [
   orientador: "ANDRE LUIZ ALVES",
   estudantes: "Gustavo Cardoso Santana",
   warning: "",
-  date: "21/06",
-  time: "14:15-15:00",
+  date: "22/06",
+  time: "10:45-11:30",
   place: "",
   titulacaoPrimeiroMembroBanca: titulacoes[enum_titulacoes.MSC],
   nomePrimeiroMembroBanca: "Fabrício Schlag",
@@ -1972,7 +1972,7 @@ let TCCs = [
     estudantes: "Omar de Araujo Lopes",
     warning: "",
     date: "22/06",
-    time: "10:45-12:15",
+    time: "9:00-10:30",
     place: "Auditório 2, área II",
     titulacaoPrimeiroMembroBanca: titulacoes[enum_titulacoes.MSC],
     nomePrimeiroMembroBanca: "André Luiz Alves",
@@ -2370,8 +2370,8 @@ let TCCs = [
   date: "21/06",
   time: "08:00-09:00",
   place: "Auditório Bloco S, Campus 2",
-  titulacaoPrimeiroMembroBanca: titulacoes[enum_titulacoes.ENG_AGRONOMO],
-  nomePrimeiroMembroBanca: "Patrick Renan de Sousa",
+  titulacaoPrimeiroMembroBanca: titulacoes[enum_titulacoes.ESP],
+  nomePrimeiroMembroBanca: "Andréia Aciany Rosso",
   titulacaoSegundoMembroBanca: titulacoes[enum_titulacoes.DR],
   nomeSegundoMembroBanca: "Roberta Paula de Jesus",
   titulacaoTerceitoMembroBanca: "",
@@ -2504,11 +2504,61 @@ let TCCs = [
   nomeTerceitoMembroBanca: "",
   curso: "Engenharia de Produção",
   tipoTCC: "Trabalho Final de Curso II"
+},
+{
+  title: "ESTUDO DA VIABILIDADE NA ABERTURA DE UMA DE LOJA DE TINTAS IMOBILIÁRIAS",
+  titulacaoOrientador: titulacoes[enum_titulacoes.MSC],
+  orientador: "RICARDO VITOY",
+  estudantes: "Caio Vinícius Ferreira Matias",
+  warning: "",
+  date: "21/06",
+  time: "09:00-09:45",
+  place: "Teams, equipe Mural de Avisos - Escola Politécnica e de Artes, canal Apresentações de TCC I 2024-1",
+  titulacaoPrimeiroMembroBanca: titulacoes[enum_titulacoes.DR],
+  nomePrimeiroMembroBanca: "Ricardo Caetano Rezende",
+  titulacaoSegundoMembroBanca: "",
+  nomeSegundoMembroBanca: "",
+  titulacaoTerceitoMembroBanca: "",
+  nomeTerceitoMembroBanca: "",
+  curso: cursos[enum_cursos.ENGENHARIA_DE_PRODUCAO],
+  tipoTCC: enum_tcc.TCC1
+},
+{
+  title: "ABERTURA DE FISSURAS EM VIGAS BIAPOIADAS DE SEÇÃO RETANGULAR: PLANILHAS PARA O AUTOAPRENDIZADO",
+  titulacaoOrientador: titulacoes[enum_titulacoes.MSC],
+  orientador: "ALBERTO VILELA CHAER",
+  estudantes: "DANIEL RANNA LUDOVICO",
+  warning: "",
+  date: "19/06",
+  time: "21:15-22:00",
+  place: "Teams, equipe Mural de Avisos - Escola Politécnica e de Artes, canal Apresentações de TCC I 2024-1",
+  titulacaoPrimeiroMembroBanca: titulacoes[enum_titulacoes.DR],
+  nomePrimeiroMembroBanca: "MANOEL DA SILVA ÁLVARES",
+  titulacaoSegundoMembroBanca: "",
+  nomeSegundoMembroBanca: "",
+  titulacaoTerceitoMembroBanca: "",
+  nomeTerceitoMembroBanca: "",
+  curso: cursos[enum_cursos.ENGENHARIA_CIVIL],
+  tipoTCC: enum_tcc.TCC1
+},
+{
+  title: "PENTEST BASEADO EM IMAGENS ENCASE: UMA ANÁLISE DE VULNERABILIDADES EM SERVIDORES WEB",
+  titulacaoOrientador: titulacoes[enum_titulacoes.MSC],
+  orientador: "CLAUDIO MARTINS GARCIA",
+  estudantes: "LIDIA PAULA DE OLIVEIRA SILVA",
+  warning: "",
+  date: "21/06",
+  time: "09:00-10:30",
+  place: "Sala 405, bloco D, área II",
+  titulacaoPrimeiroMembroBanca: titulacoes[enum_titulacoes.DR],
+  nomePrimeiroMembroBanca: "Nilson Cardoso Amaral",
+  titulacaoSegundoMembroBanca: titulacoes[enum_titulacoes.MSC],
+  nomeSegundoMembroBanca: "Olegário Correa da Silva Neto",
+  titulacaoTerceitoMembroBanca: "",
+  nomeTerceitoMembroBanca: "",
+  curso: cursos[enum_cursos.CIENCIA_DA_COMPUTACAO],
+  tipoTCC: enum_tcc.TCC2
 }
-
-
-
-
 
 
 
